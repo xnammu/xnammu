@@ -9,7 +9,9 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=26A5E4)](https://telegram.im/@navnxet)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-informational?style=flat&logo=codepen&logoColor=white&color=000000)](https://codepen.io/navnxet)
 
-I’m <b>Navneet</b>, a self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing ⚡ fast.
+I’m <b>Navneet</b>, a self-proclaimed designer who specializes in front-end development. I make it my mission to translate
+<br>
+user-focused designs into pixel-perfect websites or applications that run blazing fast⚡.
 
 <b>Check out my <a href="https://nammu.vercel.app"><u>Portfolio</u></a> here...</b>
 
