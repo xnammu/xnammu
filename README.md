@@ -1,13 +1,3 @@
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
-<style>
-  body {
-    font-family: 'Poppins', sans-serif;
-  }
-  a {
-    color: #CBACF9; /* Replace with your desired color */
-  }
-</style>
-
 [![GitHub Banner](./assets/GitHubBanner.png)](https://nammu.vercel.app)
 
 <div align="center">
@@ -19,9 +9,9 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=26A5E4)](https://telegram.im/@navnxet)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-informational?style=flat&logo=codepen&logoColor=white&color=000000)](https://codepen.io/navnxet)
 
-I’m <span style="color: #CBACF9">Navneet</span>, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m <b>Navneet</b>, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast ⚡.
 
-Check out my <a href="https://nammu.vercel.app"><u>Portfolio</u></a> here...
+<b>Check out my <a href="https://nammu.vercel.app"><u>Portfolio</u></a> here...</b>
 
 </div>
 
@@ -30,13 +20,17 @@ Check out my <a href="https://nammu.vercel.app"><u>Portfolio</u></a> here...
 - [NavTube - Youtube Clone](https://navtube.vercel.app)
 - [Hoobank - Banking App Landing Page](https://hoobankk.vercel.app)
 
-## &#x1f4c8; GitHub Stats
+## 📈 GitHub Stats
 
-<div align="center" style="display: flex; flex-direction: row; gap: 1rem;">
-<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=xnammu&show_icons=true&line_height=27&count_private=true&title_color=CBACF9&text_color=ffffff&icon_color=CBACF9&bg_color=90,000319,141734,00032f,000319,19022d&border_radius=12&border_color=000319&custom_title=GitHub Stats&display_format=compact&card_width=&hide_title=true&include_all_commits=true&hide_border=true&rank_icon=percentile&hide_rank=true" alt="GitHub Stats" />
-<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnammu&layout=compact&hide=html,css&title_color=CBACF9&text_color=ffffff&icon_color=CBACF9&bg_color=90,000319,141734,00032f,000319,19022d&border_radius=12&border_color=000319&card_width=305&custom_title=Languages Used&hide_border=true" />
+<div align="left">
+  
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=xnammu&layout=compact&hide=html,css&show_icons=true&line_height=27&count_private=true&title_color=CBACF9&text_color=ffffff&icon_color=CBACF9&bg_color=90,000319,141734,00032f,000319,19022d&card_width=500&hide_title=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
 
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnammu&layout=compact&hide=html,css&title_color=CBACF9&text_color=ffffff&icon_color=CBACF9&bg_color=90,000319,141734,00032f,000319,19022d&card_width=500&hide_border=true" alt="Top Languages" />
+  
 </div>
+
+
 
 ## 🧑‍💻 Tech Stack
 
@@ -53,13 +47,17 @@ Check out my <a href="https://nammu.vercel.app"><u>Portfolio</u></a> here...
 ![](https://img.shields.io/badge/Prisma-informational?style=flat&logo=Prisma&logoColor=white&color=2d3748)
 ![](https://img.shields.io/badge/React_Hook_Form-informational?style=flat&logo=React-Hook-Form&logoColor=white&color=EC5990)
 ![](https://img.shields.io/badge/Sanity-informational?style=flat&logo=Sanity&logoColor=white&color=f03e2f)
-![](https://img.shields.io/badge/Appwrite-informational?style=flat&logo=Appwrite&logoColor=white&color=fd366e)<br><h3>📖 Learning</h3>
+![](https://img.shields.io/badge/Appwrite-informational?style=flat&logo=Appwrite&logoColor=white&color=fd366e)
+<br>
+
+## 📖 Learning
+
 ![](https://img.shields.io/badge/Expo-informational?style=flat&logo=Expo&logoColor=white&color=000028)
 ![](https://img.shields.io/badge/Electron-informational?style=flat&logo=Electron&logoColor=white&color=47848f)
 ![](https://img.shields.io/badge/Framer-informational?style=flat&logo=Framer&logoColor=white&color=0055FF)
 
 <details>
-<summary>⚡More Skills</summary>
+<summary>⚡Skills</summary>
 <br>
 
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
@@ -79,18 +77,20 @@ Check out my <a href="https://nammu.vercel.app"><u>Portfolio</u></a> here...
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4479a1)
 ![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=dd2c00)
 ![](https://img.shields.io/badge/Supabase-informational?style=flat&logo=Supabase&logoColor=white&color=3fcf8e)
+<br>
+
 ![](https://img.shields.io/badge/C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=3776ab)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=007396)
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/WordPress-informational?style=flat&logo=Wordpress&logoColor=white&color=21759b)
+![](https://img.shields.io/badge/Brave-informational?style=flat&logo=Brave&logoColor=white&color=FB542B)
 
 ![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=31a8ff)
 ![](https://img.shields.io/badge/Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=ff9a00)
 ![](https://img.shields.io/badge/CorelDRAW-informational?style=flat&logo=coreldraw&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Premiere_Pro-informational?style=flat&logo=adobe-premiere-pro&logoColor=white&color=9999FF)
 ![](https://img.shields.io/badge/After_Effects-informational?style=flat&logo=adobe-after-effects&logoColor=white&color=9999FF)
-![](https://img.shields.io/badge/Brave-informational?style=flat&logo=Brave&logoColor=white&color=FB542B)
 
 </details><br><h4 align="center">
  THANK 💖 YOU!
