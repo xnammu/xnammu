@@ -9,7 +9,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=26A5E4)](https://telegram.im/@navnxet)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-informational?style=flat&logo=codepen&logoColor=white&color=000000)](https://codepen.io/navnxet)
 
-I’m <b>Navneet</b>, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast ⚡.
+I’m <b>Navneet</b>, a self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing ⚡ fast.
 
 <b>Check out my <a href="https://nammu.vercel.app"><u>Portfolio</u></a> here...</b>
 
@@ -22,11 +22,11 @@ I’m <b>Navneet</b>, a senior full-stack engineer, creative coder and self-proc
 
 ## 📈 GitHub Stats
 
-<div align="left">
+<div align="center">
   
-  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=xnammu&layout=compact&hide=html,css&show_icons=true&line_height=27&count_private=true&title_color=CBACF9&text_color=ffffff&icon_color=CBACF9&bg_color=90,000319,141734,00032f,000319,19022d&card_width=500&hide_title=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=xnammu&layout=compact&hide=html,css&show_icons=true&line_height=27&count_private=true&title_color=CBACF9&text_color=ffffff&icon_color=CBACF9&bg_color=90,000319,141734,00032f,000319,19022d&card_width=300&hide_title=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
 
-  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnammu&layout=compact&hide=html,css&title_color=CBACF9&text_color=ffffff&icon_color=CBACF9&bg_color=90,000319,141734,00032f,000319,19022d&card_width=500&hide_border=true" alt="Top Languages" />
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnammu&layout=compact&hide=html,css&title_color=CBACF9&text_color=ffffff&icon_color=CBACF9&bg_color=90,000319,141734,00032f,000319,19022d&card_width=300&hide_border=true" alt="Top Languages" />
   
 </div>
 
