@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Mail Badge](https://img.shields.io/badge/Gmail-informational?style=flat&logo=mail.ru&logoColor=white&color=ea4335)](mailto:navneetpna@gmail.com)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-informational?style=flat&logo=youtube&logoColor=white&color=FF0000)](https://www.youtube.com/navnxet/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-informational?style=flat&logo=youtube&logoColor=white&color=FF0000)](https://www.youtube.com/@navnxet/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/navnxet/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/navnxet/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=26A5E4)](https://telegram.im/@navnxet)
